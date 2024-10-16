@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Granaina Marketplace
 
-## Getting Started
+https://marketplacegranaina.vercel.app
 
-First, run the development server:
+Granaina Marketplace is a modern e-commerce platform built with cutting-edge technologies to provide a seamless buying and selling experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Technologies Used  
+Next.js,
+Tailwind,
+Prisma,
+Supabase,
+shadcn/ui,
+React Email,
+Resend,
+Tiptap editor,
+Stripe,
+Uploadthing,
+Sonner.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The key Features are
+Responsive Design,
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Secure Payments
 
-## Learn More
+Email Notifications
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+File Uploads
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+Type Safety
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Customizable UI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Homepage:
+![marketplacegranaina](https://github.com/user-attachments/assets/7e0e31b7-133f-41df-9f72-9be5f728e201)
+Product description:
+![marketplacegranaina2](https://github.com/user-attachments/assets/0c667922-8fa7-43b7-9178-6f4e8df1b49e)
+Sell Page:
+![marketplacegranaina3](https://github.com/user-attachments/assets/4d137c3a-1bb0-41c8-88bd-77c5e8e4e6b3)
+Settings:
+![marketplacegranaina4](https://github.com/user-attachments/assets/25720497-6f53-435d-983b-1d39ef3900dc)
+Products:
+![marketplacegranaina5](https://github.com/user-attachments/assets/be1d9aad-ad2e-43f8-95ec-7d2b5e817f30)
+Billing and Stripe Dashboard:
+![marketplacegranaina7](https://github.com/user-attachments/assets/d17351de-9182-4803-8033-26c23ea8e5e2)
+![marketplacegranaina6](https://github.com/user-attachments/assets/4aec286f-3b20-46d5-b9e1-e27aa3646e22)
+
+
+
